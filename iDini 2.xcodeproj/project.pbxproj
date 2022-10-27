@@ -18,6 +18,7 @@
 		6E6B6C67290B202F0033DD58 /* menu.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E6B6C63290B202F0033DD58 /* menu.json */; };
 		6E6B6C68290B202F0033DD58 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E6B6C64290B202F0033DD58 /* Helper.swift */; };
 		6E6B6C69290B202F0033DD58 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E6B6C65290B202F0033DD58 /* Menu.swift */; };
+		6E6B6C6B290B24870033DD58 /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E6B6C6A290B24870033DD58 /* ItemRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		6E6B6C63290B202F0033DD58 /* menu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = menu.json; sourceTree = "<group>"; };
 		6E6B6C64290B202F0033DD58 /* Helper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
 		6E6B6C65290B202F0033DD58 /* Menu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
+		6E6B6C6A290B24870033DD58 /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				6E6B6C62290B202F0033DD58 /* Order.swift */,
 				6E6B6C38290B20180033DD58 /* iDini_2App.swift */,
 				6E6B6C3A290B20180033DD58 /* ContentView.swift */,
+				6E6B6C6A290B24870033DD58 /* ItemRow.swift */,
 				6E6B6C3C290B201B0033DD58 /* Assets.xcassets */,
 				6E6B6C3E290B201B0033DD58 /* Preview Content */,
 			);
@@ -273,6 +276,7 @@
 				6E6B6C66290B202F0033DD58 /* Order.swift in Sources */,
 				6E6B6C3B290B20180033DD58 /* ContentView.swift in Sources */,
 				6E6B6C39290B20180033DD58 /* iDini_2App.swift in Sources */,
+				6E6B6C6B290B24870033DD58 /* ItemRow.swift in Sources */,
 				6E6B6C68290B202F0033DD58 /* Helper.swift in Sources */,
 				6E6B6C69290B202F0033DD58 /* Menu.swift in Sources */,
 			);
